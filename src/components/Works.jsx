@@ -69,7 +69,7 @@ const Works = () => {
         >
           A showcase of my projects to demonstrate my skill and experience
           through real-world examples of my work. Each project is briefly
-          described with links to the code or a live site.
+          described with links to the code or the live site.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">
